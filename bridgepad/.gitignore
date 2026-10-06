@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+bridgepad-error.log
+profiles/settings.json
+profiles/*.tmp
